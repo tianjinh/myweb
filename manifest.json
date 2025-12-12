@@ -9,5 +9,11 @@
   "start_url": "/",
   "theme_color": "#ffffff",
   "id": "tianjinh",
-  "description": "ceshi"
+  "description": "ceshi",
+  "icons": [
+    {
+      "src": "ceshi_tupian.png",
+      "sizes": "192x192"
+    }
+  ]
 }
