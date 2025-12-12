@@ -4,7 +4,7 @@
   "display": "standalone",
   "name": "tianjinh.github",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/myweb/",
   "short_name": "tianjinh.github",
   "start_url": "./",
   "theme_color": "#ffffff",
