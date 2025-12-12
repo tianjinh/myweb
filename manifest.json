@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "tianjinh.github",
-  "start_url": "/",
+  "start_url": "./",
   "theme_color": "#ffffff",
   "id": "tianjinh",
   "description": "ceshi",
